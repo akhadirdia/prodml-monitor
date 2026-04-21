@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "model_type": "GradientBoostingClassifier",
+  "trained_at": "2026-04-21T02:44:10.515746+00:00",
+  "n_train_samples": 1600,
+  "n_test_samples": 400,
+  "features": [
+    "feature_age",
+    "feature_income",
+    "feature_tenure",
+    "feature_num_products",
+    "feature_credit_score",
+    "feature_balance",
+    "feature_is_active",
+    "feature_num_transactions",
+    "feature_avg_transaction",
+    "feature_debt_ratio"
+  ],
+  "target": "target",
+  "reference_metrics": {
+    "accuracy": 0.7175,
+    "precision": 0.7298,
+    "recall": 0.7974,
+    "f1": 0.7621,
+    "roc_auc": 0.7791
+  },
+  "model_path": "C:\\Users\\diaak\\ABDOU_KHADIR_DIA\\IDEES DE PROJETS\\ML_Model_Monitoring\\artifacts\\baseline_model.joblib"
+}

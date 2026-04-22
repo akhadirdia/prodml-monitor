@@ -11,3 +11,5 @@ build/
 .streamlit/secrets.toml
 outputs/
 *.log
+CLAUDE.md
+notes.md

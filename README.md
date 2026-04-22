@@ -1,4 +1,4 @@
-# driftboard
+# prodml-monitor
 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Evidently](https://img.shields.io/badge/evidently-0.4.33-orange)
@@ -12,11 +12,11 @@
 
 ## Demo
 
-> 🔗 [Live demo on Streamlit Cloud](https://driftboard.streamlit.app) *(coming soon)*
+<!-- > 🔗 [Live demo on Streamlit Cloud](https://prodml-monitor.streamlit.app) *(coming soon)* -->
 
-![demo](assets/demo.gif)
+<!-- ![demo](assets/demo.gif) -->
 
-> Click "Simulate next day" in the sidebar to watch drift scores rise in real time across three scenarios.
+<!-- > Click "Simulate next day" in the sidebar to watch drift scores rise in real time across three scenarios. -->
 
 ---
 
